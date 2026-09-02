@@ -1,0 +1,13 @@
+[project]
+name = "ai-tool-calling-assistant"
+version = "0.1.0"
+description = "A local AI assistant with tool-calling capabilities"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain",
+    "langchain-ollama",
+    "langgraph",
+    "requests",
+    "tzdata",
+]
