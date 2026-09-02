@@ -56,6 +56,5 @@ This project helped me understand how LLM-powered agents interact with external 
 - Additional tools
 - Automated tests
 - Graphical user interface
-Additional tools
-Automated tests
-Graphical user interface
+
+## Demo Image - https://imgur.com/a/jODjTFl
