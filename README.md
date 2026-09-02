@@ -33,11 +33,7 @@ User Text
   ↓
 AI Agent
   ↓
-Tool Selection
-  ↓
-┌─────────────┬─────────────┬─────────────┬──────────────┐
-│ Calculator  │ Date/Time   │ Weather     │ Wikipedia    │
-└─────────────┴─────────────┴─────────────┴──────────────┘
+Tool Selection (Calculator, Date/Time, Weather, or the Wikipedia Tool)
   ↓
 Tool Result
   ↓
@@ -52,7 +48,7 @@ What's the weather in Toronto?
 
 Who was Albert Einstein?
 
-The agent determines which tool is most appropriate for each request.
+(The agent determines which tool is most appropriate for each request)
 
 ## Setup
 1. Install Dependencies - uv sync
@@ -64,7 +60,10 @@ The agent determines which tool is most appropriate for each request.
 This project helped me understand how LLM-powered agents interact with external tools. I learned how to create custom Python tools, connect a local language model to LangChain, build an agent workflow with LangGraph, integrate external APIs, and handle tool failures.
 
 ## Future Improvements
-Conversation memory
+- Conversation memory
+- Additional tools
+- Automated tests
+- Graphical user interface
 Additional tools
 Automated tests
 Graphical user interface
