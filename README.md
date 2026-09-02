@@ -65,4 +65,4 @@ This project helped me understand how LLM-powered agents interact with external 
 
 ## Demo
 
-![ToolSmith Demo](screenshots/demo.png)gur.co
+![ToolSmith Demo](screenshots/demo.png)g
