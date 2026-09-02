@@ -29,15 +29,7 @@ The user sends a request to the AI agent.
 
 The agent determines whether a tool is needed, selects the appropriate tool, receives the result, and generates a natural-language response.
 
-User Text
-  ↓
-AI Agent
-  ↓
-Tool Selection (Calculator, Date/Time, Weather, or the Wikipedia Tool)
-  ↓
-Tool Result
-  ↓
-AI Response
+User Text -> AI Agent -> Tool Selection (Calculator, Date/Time, Weather, or the Wikipedia Tool) -> Tool Result -> AI Response
 
 ## Example Queries
 What is 928 × 47?
