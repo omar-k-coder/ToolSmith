@@ -1,8 +1,14 @@
-# AI Tool-Calling Assistant
+  # ToolSmith
 
 A local AI assistant built with Python, LangChain, LangGraph, and Ollama.
 
 The assistant uses an LLM-powered agent to interpret natural-language requests and select the appropriate tool to complete the task.
+
+## Why ToolSmith?
+
+ToolSmith demonstrates how a local large language model can interact with external tools instead of relying only on its built-in knowledge.
+
+The agent determines which tool is appropriate for a user's request, executes that tool, and uses the result to generate a final response.
 
 ## Features
 
